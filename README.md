@@ -10,7 +10,10 @@ Built my very own AI assistant, where I can ask it to help me refine everyday ta
 - can teach / educate users using the AI to understand topics and learn topics quicker.
   
 ## Features
-- 
+- able to check the weather
+- schedule tasks on a calendar
+- teach and good on researching topics - or at least giving information on topics
+-  
 
 ## Tech Stack 
 - python
