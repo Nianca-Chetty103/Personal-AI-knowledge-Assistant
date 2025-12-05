@@ -18,3 +18,4 @@ Built my very own AI assistant, where I can ask it to help me refine everyday ta
 ## Tech Stack 
 - python
   
+## Preview 
